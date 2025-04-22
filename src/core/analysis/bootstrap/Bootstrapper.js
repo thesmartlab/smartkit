@@ -1,4 +1,4 @@
-import { BootstrapResult } from "./BootstrapResult";
+import { BootstrapResult } from "./BootstrapResult.js";
 import { Resampler } from "./Resampler.js";
 import { StatisticComputer } from "./StatisticComputer.js";
 
