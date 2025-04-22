@@ -1,6 +1,6 @@
 {
   "name": "smartkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI-based statistical toolkit for cognitive science research",
   "main": "src/index.js",
   "type": "module",
