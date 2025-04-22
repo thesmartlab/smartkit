@@ -1,3 +1,7 @@
+import { BootstrapResult } from "./BootstrapResult";
+import { Resampler } from "./Resampler.js";
+import { StatisticComputer } from "./StatisticComputer.js";
+
 /**
  * Bootstrapper class
  * Performs bootstrap resampling on a given dataset using a specified statistic.

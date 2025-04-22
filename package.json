@@ -19,7 +19,8 @@
     "bootstrap",
     "bin",
     "cognitive",
-    "psychology"
+    "psychology",
+    "snarc"
   ],
   "author": "SMART Lab",
   "license": "ISC",

@@ -1,5 +1,5 @@
 import { CsvReader } from '../../src/core/data/CsvReader.js';
-import { Bootstrapper } from '../../src/core/analysis/Bootstrap/Bootstrapper.js';
+import { Bootstrapper } from '../../src/core/analysis/bootstrap/Bootstrapper.js';
 
 /**
  * Handles the 'smartkit bootstrap' CLI command.
