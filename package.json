@@ -1,0 +1,30 @@
+{
+  "name": "smartkit",
+  "version": "1.0.0",
+  "description": "CLI-based statistical toolkit for cognitive science research",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "smartkit": "./cli/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "cli",
+    "statistics",
+    "bootstrap",
+    "bin",
+    "cognitive",
+    "psychology"
+  ],
+  "author": "SMART Lab",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^13.1.0",
+    "csv-parser": "^3.2.0"
+  }
+}
